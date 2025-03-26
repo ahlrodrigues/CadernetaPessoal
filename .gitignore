@@ -1,0 +1,6 @@
+### Executable ###
+
+*.exe
+*.tar.gz
+
+# End of https://www.toptal.com/developers/gitignore/api/executable
